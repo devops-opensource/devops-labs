@@ -1,9 +1,9 @@
-```
-title: Lab Pipeline As Code with GitLab
-theme: ["pipeline-as-code"]
-tools: ["gradle", "spring", "gitlab", "aws"]
-dora: ["Version control", "Continuous integration", "Deployment automation", "Continuous delivery"]
-```
+[//]: # (title: Lab Pipeline As Code with GitLab)
+[//]: # (author: Benjamin Lallement)  
+[//]: # (theme: pipeline-as-code)
+[//]: # (technology: gradle, spring, gitlab, aws)
+[//]: # (DORA: Version control, Continuous integration, Deployment automation, Continuous delivery)
+[//]: # (Date: Avril 29, 2022) 
 
 # Goals
 
