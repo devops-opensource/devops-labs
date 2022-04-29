@@ -1,9 +1,9 @@
----
+```
 title: Lab Pipeline As Code with GitLab
 theme: ["pipeline-as-code"]
 tools: ["gradle", "spring", "gitlab", "aws"]
 dora: ["Version control", "Continuous integration", "Deployment automation", "Continuous delivery"]
----
+```
 
 # Goals
 
